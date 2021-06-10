@@ -1,0 +1,113 @@
+.App {
+  text-align: center;
+}
+
+.header {
+  background: #f6ecdc !important;
+  font-family: 'Dosis', sans-serif;
+}
+
+.nav_item {
+  color: #383c41 !important;
+  margin-left: 15px;
+  font-size: 17px;
+  transition: 200ms;
+  text-decoration: none;
+}
+
+.nav_item:hover {
+  color: black !important;
+  transition: 200ms;
+}
+
+.defaultColor {
+  color: #f8601c !important;
+}
+
+.logo {
+  color: #f8601c !important;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 22px;
+}
+
+.header_lorem_div {
+  padding: 40px 60px !important;
+  margin-bottom: 80px;
+}
+
+@media screen and (min-width: 700px) {
+    .header_lorem_div {
+      padding: 60px 250px !important;
+      margin-bottom: 130px !important;
+    }
+}
+
+.play_icon_span {
+  background: #f8601c;
+  color: white;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 22px;
+  padding-bottom: 22px;
+  border-radius: 50%;
+}
+
+.services_icon {
+  color: #f8601c;
+  font-size: 50px;
+}
+
+.services_p_title {
+  font-size: 22px;
+}
+
+.services_p {
+  line-height: 32px;
+}
+.bor{ 
+  border-radius: 50px !important;
+  
+}.Cristiano{padding: 5px !important;
+  background-color: #f6ecdc !important;
+}.Xabib{padding: 5px !important;
+  background-color: #f6ecdc !important;
+}.Gates{padding: 5px !important;
+  background-color: #f6ecdc !important;
+}.Musk{ background-color: #f6ecdc !important;
+  padding: 5px !important;}.conti{
+    background: #f6ecdc !important;
+  }.d{background:  #f6ecdc !important;
+    color: #f8601c;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    border-radius: 50%;
+  margin-right: 10px;}
+  .we{  color: #f8601c;}
+  .lorem{line-height: 30px;
+  }.do{
+
+    background:  #f6ecdc !important;
+    color: #f8601c;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    border-radius: 50%;
+  margin-right: 10px; 
+  }
+  .biz{background-color: #f6ecdc;}
+ .inp{padding-top: 200px !important;}
+ .btn{border-radius: 50px !important; 
+padding: 12px 40px !important;}
+.dsd{line-height: 40px;
+  font-size: 20px !important;
+text-align: start !important;}
+.cont{background-color: #f6ecdc;}
+.rs{color:#f8601c;}
+.idt{background-color: #f6ecdc;}
+
+
+
